@@ -11,5 +11,5 @@
 - go语言：goroutine<--(Channel)-->goroutine
 
 # 进一步学习
-- go tool tour
+- https://tour.go-zh.org/
 - http://docscn.studygolang.com/doc/
